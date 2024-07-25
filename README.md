@@ -44,12 +44,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Creator
-1. Tresna Ayu Safitri (NIM 206230007)
-2. Firmansyah (NIM 206230004)
-3. Muhammad Ijlal Senja Pratama (NIM 206230010)
+Creator 
+Muhammad Ijlal Senja Pratama 
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
+If you have any questions or suggestions, feel free to open an issue or contact us at [ijlalpratama97@gmail](ijlalpratama97@gmail.com).
 
