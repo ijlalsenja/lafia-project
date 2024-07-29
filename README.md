@@ -35,11 +35,16 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 ## Result
 <p>
      <img src="train_batch0.jpg" >
-<br> "train batch" refers to a subset of the training data used in one iteration of the training process. During training, the model updates its parameters based on the information in this batch. Training on batches rather than the entire dataset at once helps manage memory usage and can speed up the learning process.
+<br> "train_batch0" refers to a subset of the training data used in one iteration of the training process. During training, the model updates its parameters based on the information in this batch. Training on batches rather than the entire dataset at once helps manage memory usage and can speed up the learning process.
 </p>
 
 <p>
-    <img src="train_batch0.jpg" >
+    <img src="val_batch0_labels.jpg" >
+<br>"val_batch0" refers to a subset of the validation data used during the evaluation phase of training. Unlike the training batch, which is used to update the model's parameters, the val batch helps assess the model's performance and generalization ability on unseen data. This evaluation helps ensure that the model is not overfitting and can make accurate predictions on new, unseen data.
+</p>
+
+<p>
+     <img src="val_batch0_labels.jpg" >
 </p>
 
 ## License
