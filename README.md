@@ -52,7 +52,13 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 
 <p>
-    <img src="results.png" >
+    <img src="confusion_matrix.png" >
+<br>A confusion matrix is a table used to evaluate the performance of a classification algorithm. It displays the actual versus predicted classifications in a tabular format, helping to visualize the performance of the model. The matrix is typically structured as follows
+</p>
+
+
+<p>
+    <img src="confusion_matrix.png" >
 </p>
 ## License
 
