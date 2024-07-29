@@ -34,7 +34,12 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 ## Result
 <p>
-     <img src="home.jpg" >
+     <img src="train_batch0.jpg" >
+<br> "train batch" refers to a subset of the training data used in one iteration of the training process. During training, the model updates its parameters based on the information in this batch. Training on batches rather than the entire dataset at once helps manage memory usage and can speed up the learning process.
+</p>
+
+<p>
+    <img src="train_batch0.jpg" >
 </p>
 
 ## License
