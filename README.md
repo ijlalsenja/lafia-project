@@ -58,8 +58,10 @@ The model was trained using transfer learning with YOLOv8 on a custom dataset fr
 
 
 <p>
-    <img src="confusion_matrix.png" >
+    <img src="F1_curve.png" >
+<br>An F1 curve is a graphical representation used to evaluate the performance of a binary classification model. It plots the F1 score, which is the harmonic mean of precision and recall, against a varying threshold or decision boundary. The F1 score balances precision (the ratio of correctly predicted positive observations to the total predicted positives) and recall (the ratio of correctly predicted positive observations to all actual positives), providing a single metric that considers both false positives and false negatives. The curve helps in visualizing how the model's performance changes with different thresholds, aiding in selecting an optimal threshold for classification.
 </p>
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
